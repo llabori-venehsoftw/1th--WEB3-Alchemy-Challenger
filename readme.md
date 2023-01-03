@@ -1,16 +1,21 @@
 ## 1th WEB3 Alchemy Challenger (Solidity Project)
 
-Developing a Smart Contract with Solidity and deploying it on the blockchain might sound daunting at first: solidity, security, gas optimization, developer 
-environment, and gas fees, are only some of the things you’ll need to go through to host your code on the blockchain.
+Developing a Smart Contract with Solidity and deploying it on the blockchain might sound daunting at
+first: solidity, security, gas optimization, developer environment, and gas fees, are only some of the
+things you’ll need to go through to host your code on the blockchain.
 
 ### General Information
 
 1.- Smart Contract to deploy a NFT using Alchemy in Ethereum Goerli network.
 
 2.- Keys for connection with Alchemy:
-   _ API Key = yEivqaiSBHxVbkFS6tmW9poDzUwH5e7Q
-   HTTPS = https://eth-goerli.g.alchemy.com/v2/yEivqaiSBHxVbkFS6tmW9poDzUwH5e7Q
-   WEB SOCKET = wss://eth-goerli.g.alchemy.com/v2/yEivqaiSBHxVbkFS6tmW9poDzUwH5e7Q
+
+- \_ API Key = yEivqaiSBHxVbkFS6tmW9poDzUwH5e7Q
+
+- HTTPS = https://eth-goerli.g.alchemy.com/v2/yEivqaiSBHxVbkFS6tmW9poDzUwH5e7Q
+
+- WEB SOCKET = wss://eth-goerli.g.alchemy.com/v2/yEivqaiSBHxVbkFS6tmW9poDzUwH5e7Q
+
 The IDE used to compile and deploy the smart Contract was Remix.
 
 3.- The NFT metadata is hosted in the Filebase system (Account created for
@@ -23,6 +28,9 @@ cto@venehsoftw.site)
 
 5.- The contract deployed from Remix through the Wallet MetaMask on the Goerli Network was =
 0x80d38D3c55124684Bd396Cd47D372BeffB09B71c
+
 6.- The execution of the requested functionality in the challenger has been verified.
+
 7.- There is a Warming in the solidity code of this contract that would be good to investigate.
+
 8.- It would be important to hide the ArrayAdderess.
