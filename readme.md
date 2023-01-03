@@ -1,4 +1,9 @@
-## Information
+## 1th WEB3 Alchemy Challenger (Solidity Project)
+
+Developing a Smart Contract with Solidity and deploying it on the blockchain might sound daunting at first: solidity, security, gas optimization, developer 
+environment, and gas fees, are only some of the things you’ll need to go through to host your code on the blockchain.
+
+### General Information
 
 1.- Smart Contract to deploy a NFT using Alchemy in Ethereum Goerli network.
 
